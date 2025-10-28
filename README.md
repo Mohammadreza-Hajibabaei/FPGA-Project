@@ -1,7 +1,3 @@
-Great — I reviewed your **FPGA Project Draft** file. Based on the document, here’s a clear and professional **README.md** (in English) that explains **Phase 1** and **Phase 2** of your project, suitable for your GitHub repository.
-
----
-
 # FPGA Signal Processing Project (Zynq-based)
 
 ## Overview
@@ -83,12 +79,6 @@ In Phase 2, the project was extended by adding **data scrambling and descramblin
 | ----------- | --------------------------------------- | -------------------------------------------------------------- |
 | **Phase 1** | Signal generation and FFT visualization | PS waveform generation, DMA transfer, FFT IP, HDMI output      |
 | **Phase 2** | Data scrambling and descrambling        | Scrambler/Descrambler design, frame structure, synchronization |
-
----
-
-## Future Work (Phase 3 – Optional)
-
-A third phase (optional) involves transmitting the signal via **UART** to the Zynq and processing it in **MATLAB** for additional analysis.
 
 ---
 
